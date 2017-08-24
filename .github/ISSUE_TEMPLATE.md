@@ -9,11 +9,11 @@
 
 
 ### Environment
-|                 | Vendor  | Product | Version  |
-|-----------------|---------|---------|----------|
-| Tool            |         |         |          |
-| Operating System |     |     |     |
-| Hardware |     |     |     |
+|    Stack         | Vendor  | Product | Version  |
+|------------------|---------|---------|----------|
+| Tool             |         |         |          |
+| Operating System |         |         |          |
+| Hardware         |         |         |          |
 
 
 
